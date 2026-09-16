@@ -1,0 +1,6 @@
+color = "purple"
+output = true
+route = "/data-room"
+route_auth = "external_id:NnfV8gNMYwC_saQWwnbkw"
+route_type = "webpage"
+title = "Data room analysis"
