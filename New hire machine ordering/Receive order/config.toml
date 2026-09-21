@@ -1,0 +1,7 @@
+color = "purple"
+output = true
+route = "/new-hire-machine-order"
+route_auth = "external_id:3hUdqFZoI1fWCbSCHsraw"
+route_type = "webhook"
+title = "New hire machine order intake"
+links = ["Create IT ticket"]
