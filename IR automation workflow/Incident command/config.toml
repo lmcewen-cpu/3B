@@ -1,0 +1,6 @@
+color = "purple"
+output = true
+route = "/incident-command"
+route_auth = "external_id:cgGdKAnz1W8BZW1Cq_DpL"
+route_type = "webhook"
+links = ["Start incident", "Log update", "Log action", "Summarize to PIR", "Create RIP tickets", "Archive channel"]
