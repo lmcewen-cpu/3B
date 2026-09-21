@@ -1,0 +1,6 @@
+color = "purple"
+output = true
+route = "/access-hub-deck"
+route_type = "webpage"
+route_auth = "space"
+title = "Access Hub deck"
